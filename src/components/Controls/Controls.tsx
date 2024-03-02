@@ -18,6 +18,7 @@ type Props = {
 };
 
 const Container = styled.div`
+    min-width: 300px;
     width: 300px;
     max-height: 100%;
     display: flex;
